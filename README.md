@@ -1,13 +1,18 @@
 # python-logic-practice
 This repository contains beginner python programs used to practice programming logic.
 
-Programmes included:
+## Programmes included:
 
--- Factorial of a number
--- Fibonacci series
--- Reverse a string
--- Prime number check
--- Multiplication table
+- Factorial of a number
+- Fibonacci series
+- Reverse a string
+- Prime number check
+- Multiplication table
+- count vowels in a string
+- largest number in a list
+- palindrome number
+- remove duplicates in a list
+- sum of first n natural numbers
 
-Purpose:
-Improve problem solving skills and python fundamentals.
+## Purpose:
+Improve python programming logic, understand loops and conditions, improve problem solving skills and python fundamentals.
