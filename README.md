@@ -13,6 +13,8 @@ This repository contains beginner python programs used to practice programming l
 - palindrome number
 - remove duplicates in a list
 - sum of first n natural numbers
+- count words in a sentence
+- second largest number in list
 
 ## Purpose:
 Improve python programming logic, understand loops and conditions, improve problem solving skills and python fundamentals.
