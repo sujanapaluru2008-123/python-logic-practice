@@ -1,4 +1,4 @@
-# python-logic-practice
+# python-algorithms-practice
 This repository contains beginner python programs used to practice programming logic.
 
 ## Programmes included:
